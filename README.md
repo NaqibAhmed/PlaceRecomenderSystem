@@ -18,7 +18,7 @@ The following Python libraries are required to run the project:
 - Scikit-learn
 - Pickle
 - Requests
-- beautiful soup
+- BeautifulSoup
 
 Usage
 To use the project, follow these steps:
